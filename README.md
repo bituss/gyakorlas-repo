@@ -1,2 +1,1 @@
-# gyakorlas-repo
-# gyakorlas-repo
+gyakorlas dolgozatra
